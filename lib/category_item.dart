@@ -39,8 +39,9 @@ class CategoryItem extends StatelessWidget{
             child: Column(children: <Widget>[
          
             Text(title,style: Theme.of(context).textTheme.title,),
-         // FlatButton(onPressed: () {},child: Text('İşlem'),),
-             //FlatButton(onPressed: () {},child: Text('Satış'),)
+    //  Text('Hesap'),
+        //  FlatButton(onPressed: () {},child: Text('İşlem'),),
+          //   FlatButton(onPressed: () {},child: Text('Satış'),)
        
             ],),
           ),
